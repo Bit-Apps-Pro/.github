@@ -62,7 +62,9 @@ Bit Apps offers a suite of powerful WordPress plugins designed to work seamlessl
   
 ### **✨ Transform Your WordPress Experience with Bit Apps Today!**
 
-[Explore Our Plugins](https://bitapps.pro/plugin-hub/){ .md-button .md-button--primary } [View Demos](https://towp.io/){ .md-button }
+🔗 [Explore Our Plugins](https://bitapps.pro/plugin-hub/)
+<br>
+🔗 [Try Demos](https://towp.io/)
 
 *Copyright © 2025 Bit Apps. All rights reserved.*
 
